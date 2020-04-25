@@ -17,16 +17,16 @@ Open and run (cmd+R) the following files in Nodebox1 to obtain images of DNA nuc
 ## Author
 
 **Albert Carles**
-[www.albertcarles.com](http://www.albertcarles.com) | [@albertcarles](https://twitter.com/albertcarles)
+* [www.albertcarles.com](http://www.albertcarles.com) | [@albertcarles](https://twitter.com/albertcarles) *
 
 ## License
 
-This project is licensed under under the GNU General Public License v3.0
+This project is licensed under the GNU General Public License v3.0
 
 ## Acknowledgments
 
 Data of the COVID-19 genome from:
 
 **National Center of Biotechnology Information**
-[www.ncbi.nlm.nih.gov](http://www.ncbi.nlm.nih.gov) | [NCBI](https://twitter.com/NCBI)
+* [www.ncbi.nlm.nih.gov](http://www.ncbi.nlm.nih.gov) | [NCBI](https://twitter.com/NCBI) *
 
