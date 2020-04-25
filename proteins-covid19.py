@@ -5,7 +5,7 @@
 # https://www.nodebox.net/code/index.php/Home
 #
 # by Albert Carles
-# v1.0 2020/12/04
+# v1.0 2020/04/12
 # https://github.com/albertcarles/dna-covid19-poster
 # licensed under the GNU General Public License v3.0
 #
